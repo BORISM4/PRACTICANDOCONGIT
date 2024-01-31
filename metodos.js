@@ -23,7 +23,7 @@ const personaTres = {
     ,
     Obtenermascota: function(indice) {
         if (indice >= this.mascotas.length ){
-         return `ingrese un indice valido, intenta con un numero menor a ${this.mascotas.length}`;
+         return `ingrese un indice valido, intenta con un numero menor ${this.mascotas.length}`;
         }
         if (indice < 0){
 
