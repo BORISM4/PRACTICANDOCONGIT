@@ -10,7 +10,7 @@ const personaTres = {
         departamento:"Chalatenango"
     },
 
-    mascotas:["Pacheci", "ROCKIE"]
+    mascotas:["Pachanga", "ROCKIE"]
 };
 personaTres.nombre; //sirve para encontrar un valor dentro de la key en este caso se busco el nombre
 
